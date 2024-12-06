@@ -1,6 +1,6 @@
 # Miscellaneous
 
-In questa repository ho raccolto diversi lavori spot, sempre in ambito Cyber, slegati tra loro.
+Questa repository raccoglie una serie di progetti ed esercizi indipendenti, focalizzati su diversi aspetti del mondo Cyber. Ogni elemento è pensato come uno spunto pratico e slegato dagli altri.
 
 # Elenco lavori:
 
